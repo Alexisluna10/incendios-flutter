@@ -1,4 +1,4 @@
-*[Read this in English](README.md)*
+*[Read this in Spanish](README.md)*
 
 # Child Safety - Prevention System for Minors
 
