@@ -1,0 +1,40 @@
+name: incendios
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.3.2 # o la última versión disponible
+
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.1.1
+  flutter_carousel_widget: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+    - images/background.png
+    - images/Enchufe.png
+  #   - images/a_dot_ham.jpeg
+
+  #   - family: Schyler
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset:: italic
+  #   - family: Trajan Pro
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #
